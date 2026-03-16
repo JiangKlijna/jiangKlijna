@@ -63,11 +63,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</p>
 
 ---
-*Last updated: 2026-03-02*
+*Last updated: 2026-03-16*
